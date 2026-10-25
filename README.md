@@ -47,8 +47,10 @@ a.   KVL:
  
 
 
+
 b.  KCL:
  
+
 
 Calculation:
 
@@ -56,7 +58,11 @@ a.   KVL:
  
 
 
+
+
 b.  KCL:
+
+
 
 
 
@@ -64,10 +70,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="1600" height="755" alt="WhatsApp Image 2026-10-25 at 9 08 50 AM (1)" src="https://github.com/user-attachments/assets/0eaf675d-8205-43b4-a39b-db2de2776113" />
+
 
 
 b.  KCL:
+<img width="1600" height="690" alt="WhatsApp Image 2026-10-25 at 9 08 51 AM (1)" src="https://github.com/user-attachments/assets/f871b7d1-a4f2-4cc4-b401-be6d6e9773d8" />
 
 
 
