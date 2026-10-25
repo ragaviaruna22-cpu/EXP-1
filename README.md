@@ -60,7 +60,8 @@ a.   KVL:<img width="1004" height="1600" alt="WhatsApp Image 2026-10-25 at 9 08 
  
 
 
-b.  KCL:![Uploading WhatsApp Image 2026-10-25 at 9.05.56 AM.jpeg…]()
+b.  KCL:
+![Uploading WhatsApp Image 2026-10-25 at 9.05.56 AM.jpeg…]()
 
 <img width="956" height="1600" alt="WhatsApp Image 2026-10-25 at 9 06 42 AM" src="https://github.com/user-attachments/assets/37c044ce-3498-4590-b332-f322412dcdfd" />
 
